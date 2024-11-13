@@ -1,7 +1,7 @@
 import React from 'react';
 import { ScrollView } from 'react-native';
-import CategorySection from '../components/CategorySection';
-import HomeStyles from '../styles/HomeStyles';
+import CategorySection from '../../components/CategorySection';
+import HomeStyles from './style';
 
 export default function Home() {
 
