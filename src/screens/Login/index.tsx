@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, TextInput, Button, Text, TouchableOpacity, StyleSheet } from 'react-native';
-import { styles } from './styles';
+import { styles } from './style';
 
 export default function Login({ navigation }: any) {
 
